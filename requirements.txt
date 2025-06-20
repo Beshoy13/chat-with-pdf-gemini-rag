@@ -1,0 +1,8 @@
+langchain
+llama-index
+chromadb
+google-generativeai
+pypdf
+streamlit
+fastapi
+uvicorn
